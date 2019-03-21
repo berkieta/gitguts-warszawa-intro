@@ -19,4 +19,4 @@ InfoShare Academy
 
 MIT
 
-Apache
+Apache to licencja fajna.
