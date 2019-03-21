@@ -6,6 +6,7 @@ Celem tego repozytorium jest zapoznanie się z gitem.
 
 Nie ma żadnych.
 
+
 # Licencja 
 
 MIT
@@ -13,3 +14,9 @@ MIT
 # Autor
 
 InfoShare Academy
+
+# Licencja
+
+MIT
+
+Apache
