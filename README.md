@@ -17,4 +17,5 @@ InfoShare Academy
 
 # Licencja
 
-MIT 2
+CC
+
