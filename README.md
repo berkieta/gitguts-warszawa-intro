@@ -17,6 +17,4 @@ InfoShare Academy
 
 # Licencja
 
-MIT
-
-Apache
+MIT 2
