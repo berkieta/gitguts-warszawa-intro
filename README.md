@@ -19,3 +19,6 @@ InfoShare Academy
 
 CC
 
+# Dodanie informacji końcowych
+
+To już ostatnie zadanie.
